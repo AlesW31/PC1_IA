@@ -4,6 +4,7 @@ Reglas del sistema de Tres en raya.
 2. Un jugador no puede efectuar 2 turnos seguidos
 3. Al completarse todas las casillas, se marca como un empate.
 4. Secuencia correcta: Uno de los jugadores hizo "tres en raya".
+
 Modelo conceptual:
 ![IMG_0019](https://github.com/user-attachments/assets/fee9a013-a423-4e32-87eb-d92d6a5d42c9)
 
